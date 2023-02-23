@@ -1,5 +1,5 @@
 import {useEffect} from 'react'
-import homeStore from '../stores/HomeStore';
+import homeStore from '../stores/homeStore';
 import { Link } from "react-router-dom";
 
 export default function Home() {
